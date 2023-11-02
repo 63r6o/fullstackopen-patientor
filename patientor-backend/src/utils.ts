@@ -171,19 +171,6 @@ const toNewHospital = (object: NewBaseEntry): NewEntry => {
     throw new Error("Incorrect data: some fields are missing");
 };
 
-// const isGender = (param: string): param is Gender => {
-//     return Object.values(Gender)
-//         .map((v) => v.toString())
-//         .includes(param);
-// };
-//
-// const parseGender = (gender: unknown): Gender => {
-//     if (!isString(gender) || !isGender(gender)) {
-//         throw new Error("Incorrect or missing gender");
-//     }
-//
-//     return gender;
-// };
 const isNumber = (num: unknown): num is number => {
     return !isNaN(Number(num));
 };
