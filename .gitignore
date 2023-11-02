@@ -1,0 +1,29 @@
+.DS_Store
+patientor-backend/node_modules
+patientor-backend/build
+
+patientor/dist
+# Logs
+patientor/logs
+patientor/*.log
+patientor/npm-debug.log*
+patientor/yarn-debug.log*
+patientor/yarn-error.log*
+patientor/pnpm-debug.log*
+patientor/lerna-debug.log*
+
+patientor/node_modules
+patientor/dist
+patientor/dist-ssr
+patientor/*.local
+
+# Editor directories and files
+patientor/.vscode/*
+patientor/!.vscode/extensions.json
+patientor/.idea
+patientor/.DS_Store
+patientor/*.suo
+patientor/*.ntvs*
+patientor/*.njsproj
+patientor/*.sln
+patientor/*.sw?
