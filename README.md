@@ -1,6 +1,6 @@
 # Patientor - Full Stack Open Part 9, final exercise
 
-This repository contains the final exercise of Part 9 of the Full Stack open course from the University of Helsinki. In this project, I extended an existing codebase for the front end and developed a back end from scratch.
+This repository contains the final exercise of [Part 9 of the Full Stack open course](https://fullstackopen.com/en/part9/grande_finale_patientor) from the University of Helsinki. In this project, I extended an existing codebase for the front end and developed a back end from scratch.
 
 ### Technologies Used
 
